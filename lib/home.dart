@@ -1,3 +1,4 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'mycolor.dart';
 import 'tile.dart';
@@ -241,6 +242,8 @@ class _HomePageState extends State<HomePage> {
                       padding: EdgeInsets.all(10.0),
                       child: GestureDetector(
                         child: GridView.count(
+                          physics: NeverScrollableScrollPhysics(),
+                          shrinkWrap: true,
                           primary: false,
                           crossAxisSpacing: 10.0,
                           mainAxisSpacing: 10.0,
