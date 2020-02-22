@@ -1,17 +1,16 @@
-# 2048
+# flutter_2048
 
-Famous 2048 game made in Flutter
+A new Flutter project.
 
-## Features
+## Getting Started
 
-1. Store High Score
-2. Colorful Grid
-3. Cute Font
+This project is a starting point for a Flutter application.
 
-## TODO
+A few resources to get you started if this is your first Flutter project:
 
-1. Sliding Grid Animation (Contributions are welcome)
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## Screenshot
-
-![2048](https://github.com/anuranBarman/2048/blob/master/2048.png "2048 Game")
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
